@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #000;
+    background-color: rgb(250, 236, 185);
+    padding: 32px;
+    line-height: 24px;
+}
+
+.menu-card{
+    background-color: white;
+    padding: 24px;
+    width: 320px;
+    border-radius:16px;
+}
+
+.logo{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 24px
+}
+
+h1{
+    color:rgb(147, 3, 1);
+    line-height: 32px;
+    margin-bottom: 16px;
+}
+
+h2{
+    line-height: 32px;
+}
+
+h3{
+    line-height: 32px;
+}
+
+p.tagline{
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+p.description{
+    font-size: 14px;
+    line-height: 20px;
+}
+
+p.tips{
+    color:rgb(147, 3, 1)
+}
+
+p.call{
+    color:rgb(147, 3, 1);
+}
+
+header{
+    margin-bottom: 48px;
+}
+
+footer{
+    margin-top: 48px
+}
+
+.menu-list {
+    list-style: none;
+    padding-left: 16px;
+}
+
+.open-time {
+    list-style: none;
+    padding-left: 16px;
+}
+
+.call {
+    line-height: 50px;
+}
